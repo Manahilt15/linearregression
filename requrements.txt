@@ -1,5 +1,3 @@
- streamlit
- pandas
- sklearn.linear_model
-LinearRegression
- matplotlib.pyplot 
+pip install scikit-learn pandas matplotlib streamlit
+
+pip show scikit-learn pandas matplotlib streamlit
